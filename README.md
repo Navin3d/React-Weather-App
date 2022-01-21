@@ -1,3 +1,6 @@
+# React-Weather-App
+This is an basic react weather app that integrates weather API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
